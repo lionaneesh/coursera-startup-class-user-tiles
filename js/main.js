@@ -1,16 +1,6 @@
 /*
- * Bootstrap Image Gallery JS Example 2.9
- * https://github.com/blueimp/Bootstrap-Image-Gallery
- *
- * Copyright 2012, Sebastian Tschan
- * https://blueimp.net
- *
- * Licensed under the MIT license:
- * http://www.opensource.org/licenses/MIT
+ * Copyright Aneesh Dogra 2013 <lionaneesh-at-gmail>
  */
-
-/*jslint unparam: true */
-/*global window, document, $ */
 
 $(function () {
     'use strict';
